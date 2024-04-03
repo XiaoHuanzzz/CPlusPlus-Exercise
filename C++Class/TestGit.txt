@@ -1,1 +1,16 @@
-hello
+git clone <repository_url>
+
+cd <repository_name>
+
+git add <file_name>
+
+git commit -m "Add <file_name>"
+
+git push origin <branch_name>
+
+在这些命令中：
+
+<repository_url> 是您要克隆的 GitHub 仓库的 URL。
+<repository_name> 是克隆到本地的仓库目录名。
+<file_name> 是要添加到 Git 仓库的文件名。
+<branch_name> 是要推送更改的分支名。(main)
